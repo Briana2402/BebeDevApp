@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "279740215659",
+    "project_id": "bebe-app-fda47",
+    "storage_bucket": "bebe-app-fda47.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:279740215659:android:99427979a18e13be1d9c2e",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9oVy--9bP3ZRIbr3IlShxOSEXwGYo3nY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
